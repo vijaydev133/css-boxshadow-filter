@@ -1,0 +1,24 @@
+.filter img{
+    filter: sepia(100%);
+
+}
+
+/* filter: none;
+filter: blur(5px);
+filter: brightness(200%);
+filter: contrast(200%);
+filter: drop-shadow(8px 8px 10px gray);
+filter: grayscale(100%);
+filter: invert(100%);
+filter: opacity(30%);
+filter: saturate(8);
+filter: sepia(100%);
+filter: contrast(200%) brightness(150%); */
+
+
+.box-shadow{
+    width: 150px;
+    height: 50px;
+    border: 2px solid black;
+    box-shadow: inset -5px -5px 10px red;
+}
